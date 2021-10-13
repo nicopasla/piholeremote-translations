@@ -147,8 +147,8 @@
 "querylog_filter_status_blocked" = "Bloqué";
 "querylog_filter_status_blocked_only" = "Bloqué uniquement";
 "querylog_filter_type" = "Type";
-"querylog_filter_type_hide_https" = "Masquer HTTPS requêtes";
-"querylog_filter_type_hide_ds_dnskey" = "Masquer DS & DNSKEY requêtes";
+"querylog_filter_type_hide_https" = "Masquer les requêtes HTTPS";
+"querylog_filter_type_hide_ds_dnskey" = "Masquer les requêtes DS & DNSKEY";
 "querylog_filter_sort" = "Trier";
 "querylog_filter_sort_new_old" = "Nouveau > Ancien";
 "querylog_filter_sort_old_new" = "Ancien > Nouveau";
